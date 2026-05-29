@@ -25,7 +25,7 @@ A modern premium barbershop landing page built with React, TypeScript, Vite, and
 
 ## Preview
 
-Live demo: Coming soon
+Live demo: https://cutcraft-barbershop-4ehldzm8n-yonny.vercel.app/
 
 ## Folder Structure
 
